@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Sahebeh Dadboud: 1569395
-%sheet 6 - exe 5
+%Sahebeh Dadboud: 
+
 % Explicit Euler methods and Richardson Extrapolation
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
